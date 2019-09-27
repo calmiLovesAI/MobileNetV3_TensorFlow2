@@ -1,5 +1,5 @@
-# MobileNetV3_TensorFlow2.0
-A tensorflow2.0 implementation of MobileNet_V3.
+# MobileNetV3_TensorFlow2
+A tensorflow2 implementation of MobileNet_V3.
 
 See https://github.com/calmisential/Basic_CNNs_TensorFlow2.0 for training details.
 
